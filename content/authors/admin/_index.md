@@ -8,7 +8,7 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 social:
-  - icon: envelope-square
+  - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
