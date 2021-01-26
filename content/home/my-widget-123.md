@@ -3,7 +3,7 @@ widget: people
 widget_id: Test Block
 headless: true
 weight: 140
-title: ""
+title: Test Block
 active: true
 design:
   columns: "2"
