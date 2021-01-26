@@ -2,7 +2,7 @@
 widget: people
 widget_id: Test Block
 headless: true
-weight: 150
+weight: 140
 title: ""
 active: true
 design:
