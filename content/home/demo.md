@@ -3,7 +3,7 @@ advanced:
   css_style: ""
   css_class: ""
 widget: blank
-widget_id: Welcome
+widget_id: Academic Template
 headless: true
 weight: 10
 title: Academic Template
